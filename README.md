@@ -1,6 +1,3 @@
-Sure! Here is an HTML design for a landing page for your GitHub profile. It incorporates the elements you provided and emphasizes your current work with Flutter, Dart, and C++.
-
-```html
 <!DOCTYPE html>
 <html lang="en">
 <head>

@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=takiul-sumon" alt="takiul-sumon" /></a> </p>
 
-- 🔭 I’m currently working on [Word Puzzle Game](https://github.com/takiul-sumon/Weather-App)
+- 🔭 I’m currently working on [Ecommerce App](https://github.com/takiul-sumon/Weather-App)
 
-- 🌱 I’m currently learning **API, Firebase, Storage**
+- 🌱 I’m currently learning **API Intregation, Firebase, Storage, Responsive UI,State management**
 
 - 👨‍💻 All of my projects are available at [https://github.com/takiul-sumon?tab=repositories](https://github.com/takiul-sumon?tab=repositories)
 

@@ -31,7 +31,7 @@
 |---------|-------------|------------|
 | [**Sanchoy**](https://github.com/takiul-sumon) | Digital ledger app for small businesses | Flutter, Firebase, GetX |
 | [**Weather App**](https://github.com/takiul-sumon/Weather-App) | Weather forecasting app with live API data | Flutter, REST API |
-| [**Agro AI**](#) | AI-based agricultural assistance tool | Python, ML, Flutter |
+| [**Ecommerce App**](https://github.com/takiul-sumon/Ecommerce-App) | Ecommerece app for smaall business | Flitter, REST APi , Shared Preferecnce|
 
 ---
 

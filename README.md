@@ -30,7 +30,7 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [**Sanchoy**](https://github.com/takiul-sumon) | Digital ledger app for small businesses | Flutter, Firebase, GetX |
+| [**Sanchoy**](https://github.com/takiul-sumon/Sanchoy) | Digital ledger app for small businesses | Flutter, Firebase, GetX |
 | [**Weather App**](https://github.com/takiul-sumon/Weather-App) | Weather forecasting app with live API data | Flutter, REST API |
 | [**Ecommerce App**](https://github.com/takiul-sumon/Ecommerce-App) | Ecommerce app for small businesses | Flutter, REST API, Shared Preferences |
 

@@ -5,7 +5,7 @@
 
 <!-- Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=takiul-sumon&label=Profile%20Views&color=FF0000&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=takiul-sumon&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
@@ -40,12 +40,12 @@
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=takiul-sumon&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=takiul-sumon&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=takiul-sumon&show_icons=true&theme=tokyonight&title_color=FF0000&text_color=FF0000" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=takiul-sumon&theme=tokyonight&ring=FF0000&fire=FF0000&currStreakLabel=FF0000" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=takiul-sumon&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=takiul-sumon&layout=compact&theme=tokyonight&title_color=FF0000" />
 </p>
 
 ---
@@ -62,4 +62,4 @@
 ---
 
 ## ⚡ Fun Fact
-> I can spend hours debugging a single line of Flutter code… and still love it. 😆  
+> I can spend hours debugging a single line of Flutter code… and still love it. 😆

@@ -4,10 +4,7 @@
 </p>
 
 <!-- Profile Views -->
-/*<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=takiul-sumon&label=Profile%20Views&color=0E75B6&style=for-the-badge" alt="Profile Views" />
-</p>
-*/
+
 ---
 
 ## 👨‍💻 About Me

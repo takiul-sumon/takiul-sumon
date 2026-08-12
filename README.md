@@ -86,21 +86,17 @@ A sustainability-focused mobile application designed around eco-friendly activit
 
 ---
 
----
-
 ## 📊 GitHub Statistics
 
 <p align="center">
   <img
     width="48%"
     src="https://github-readme-stats.vercel.app/api?username=takiul-sumon&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Statistics"
   />
 
   <img
     width="48%"
-    src="https://streak-stats.demolab.com/?user=takiul-sumon&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=takiul-sumon&theme=tokyonight&hide_border=true"
   />
 </p>
 
@@ -108,7 +104,6 @@ A sustainability-focused mobile application designed around eco-friendly activit
   <img
     width="48%"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=takiul-sumon&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
   />
 </p>
 
@@ -120,11 +115,9 @@ A sustainability-focused mobile application designed around eco-friendly activit
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=takiul-sumon&theme=tokyo-night&hide_border=true&area=true"
     width="100%"
-    alt="Takiul Islam Sumon's Contribution Graph"
+    alt="Takiul Islam Sumon's GitHub Contribution Graph"
   />
 </p>
-
----
 
 ---
 

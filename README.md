@@ -109,15 +109,19 @@ A sustainability-focused mobile application designed around eco-friendly activit
 
 ---
 
+<!-- Contribution Graph -->
+
 ## 📈 Contribution Graph
 
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=takiul-sumon&theme=tokyo-night&hide_border=true&area=true"
-    width="100%"
+    width="90%"
     alt="Takiul Islam Sumon's GitHub Contribution Graph"
   />
 </p>
+
+---
 
 ---
 
